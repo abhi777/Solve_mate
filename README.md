@@ -1,6 +1,6 @@
 # Solvemate v0.0.1
 
-This is a Telegram Bot built using Python which can reply to queries and text data present inside images using ChatGPT API.
+This is a Telegram Bot developed using Python which can reply to queries and text data present inside images using ChatGPT API.
 
 The link to my Telegram Bot is https://lnkd.in/dgW9uic5. 
 
