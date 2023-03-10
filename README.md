@@ -4,7 +4,7 @@ This is a Telegram Bot developed using Python which can reply to queries and tex
 
 The link to my Telegram Bot is https://lnkd.in/dgW9uic5. 
 
-## To check out the live version of my Telegram Bot, [Click Here...](https://telegram.me/clicksolvebot )
+## To check out the live version of my Telegram Bot, [Click Here...](telegram.me/clicksolvebot )
 
 ## Working
 ![Screenshot at 2023-03-09 15-37-47](https://user-images.githubusercontent.com/74459400/224177662-28f819bd-99c4-4549-b6cc-f46f40eaf8d0.png)
