@@ -1,13 +1,18 @@
-# Solvemate v0.0.1
+# Solve_mate v0.0.3
 
-This is a Telegram Bot developed using Python which can reply to queries and text data present inside images sent by
-the users and is created by combining the power of ChatGPT API & Image processing over a Telegram Bot.
+This is a Web Application developed using Python which can reply to queries and text data present inside images sent by
+the users and is created by combining the power of ChatGPT API & Image processing.
 
-## To check out the live version of my Telegram Bot, [Click Here...](https://lnkd.in/dgW9uic5)
+## To check out the live version of my Web App, [Click Here...](https://web-img-gpt.streamlit.app/)
+
+## Usage:
+1. Enter your ChatGPT API as Input.
+2. Upload the image to be searched and write a query.
+3. Use the cropper, if necessary.
+4. Execute it. 
 
 ## Working
-![Screenshot at 2023-03-09 15-37-47](https://user-images.githubusercontent.com/74459400/224177662-28f819bd-99c4-4549-b6cc-f46f40eaf8d0.png)
-![Screenshot at 2023-03-09 15-30-37](https://user-images.githubusercontent.com/74459400/224177705-f5202c8f-73b3-41e1-84a9-a8cf71dd509a.png)
-![Screenshot at 2023-03-09 15-31-28](https://user-images.githubusercontent.com/74459400/224177764-b180a411-39be-452a-948e-0080dbc355f3.png)
-![Screenshot at 2023-03-09 15-31-49](https://user-images.githubusercontent.com/74459400/224177805-8bd39116-c0d1-4424-8559-e6097c16f75f.png)
+![output-onlineimagetools (1)](https://user-images.githubusercontent.com/74459400/227619079-9fa99629-4c05-4783-bf08-ab965d749d20.png)
+![Screenshot from 2023-03-25 00-27-49](https://user-images.githubusercontent.com/74459400/227619162-848c26cf-6ada-4840-ba7d-b012fb674295.png)
+
 
